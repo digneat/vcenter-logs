@@ -1,0 +1,19 @@
+# Downloaded logs — never commit
+vc-logs/
+*.tgz
+*.log
+manifest.csv
+
+# Credentials
+.env
+*.cred
+
+# PowerShell / Windows
+*.ps1xml
+*.bak
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp

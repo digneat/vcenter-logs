@@ -1,0 +1,4 @@
+# PowerShell module dependency:
+#   Install-Module VMware.PowerCLI -Scope CurrentUser -AllowClobber
+#
+# Tested with VMware.PowerCLI >= 13.0 against vCenter 7.0 and 8.0.
