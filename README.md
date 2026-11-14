@@ -14,7 +14,7 @@ Both modes write a CSV manifest of everything downloaded.
 Install-Module VMware.PowerCLI -Scope CurrentUser -AllowClobber
 
 # Clone
-git clone https://github.com/CloudCraftPro/vcenter-logs.git
+git clone https://github.com/digneat/vcenter-logs.git
 cd vcenter-logs
 
 # Pull a full support bundle from vCenter + 2 ESXi hosts
